@@ -1,6 +1,6 @@
 <h2 align="center">
-  Portfolio Website - v2.0<br/>
-  <a href="http://soumya-jit.tech/" target="_blank">soumyajit.tech</a>
+  Portfolio Website <br/>
+  <a href="https://www.linkedin.com/in/gagan-khanna-b89150197/" target="_blank">Gagan Khanna</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/readme-img1.png" />
