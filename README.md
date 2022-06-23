@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website <br/>
-  <a href="https://www.linkedin.com/in/gagan-khanna-b89150197/" target="_blank">Gagan Khanna</a>
+  <a href="https://portfolio-five-sable-99.vercel.app/" target="_blank">Gagan Khanna</a>
 </h2>
 
 <br/>
